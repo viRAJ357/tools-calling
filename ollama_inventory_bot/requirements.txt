@@ -1,2 +1,6 @@
 ollama
 streamlit
+streamlit
+pillow
+pathlib
+# Add any other libraries you imported like 'langchain' or 'openai'
